@@ -1,13 +1,6 @@
 /** @jsx TinyReact.createElement */
 
 
-
-//// not sorting properly
-//// componentWillUnmount is not getting consoled.
-/// delete todo
-/// dosent recognize arrow functions(() =>) as functions in todo-app.js
-//
-
 const root = document.getElementById("root");
 
 var Step1 = (
